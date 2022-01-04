@@ -1,0 +1,2 @@
+# DebugTrace
+qt debug trace
